@@ -1,0 +1,3 @@
+flask
+opencv-python
+# run command --> pip install -r requirements.txt
